@@ -1,2 +1,2 @@
 # NewsToday-adobe
-React we application --- adobe assignment
+React news application --- adobe assignment
